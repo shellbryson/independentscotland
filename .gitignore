@@ -44,3 +44,6 @@ crashlytics-build.properties
 fabric.properties
 
 /fabric/scripts/libs/
+.idea/independentscotland.iml
+.idea/modules.xml
+.idea/vcs.xml
